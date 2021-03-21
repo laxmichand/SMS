@@ -1,0 +1,19 @@
+{
+  "name": "sms",
+  "version": "1.0.0",
+  "description": "studen managment system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laxmichand/SMS.git"
+  },
+  "author": "laxmi chandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laxmichand/SMS/issues"
+  },
+  "homepage": "https://github.com/laxmichand/SMS#readme"
+}
