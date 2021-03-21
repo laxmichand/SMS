@@ -1,1 +1,1 @@
-console.log("hello laxmi")
+console.log("student management system")
